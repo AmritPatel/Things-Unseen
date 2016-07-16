@@ -4,23 +4,23 @@
     "repositoryName": "Things-Unseen",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "Things Unseen",
+    "description": "Documentary/Lifestyle Photography",
+    "cover": "",
+    "googleAnalytics": "UA-59916137-1",
+    "disqus": "things-unseen"
+  },
+  "socialnetwork": {
+    "email": "",
+    "twitter": "http://twitter.com/im_apatel",
+    "googleplus": "https://plus.google.com/+AmritPatel",
+    "linkedin": "http://linkedin.com/in/amritdpatel",
+    "facebook": "http://facebook.com/amrit.d.patel",
+    "instagram": "http://instagram.com/im_apatel",
+    "github": "https://github.com/AmritPatel"
+  },
   "theme": {
-    "name": "Saga"
-  },
-  "site":{
-    "title":"Things Unseen",
-    "cover":"",
-    "googleAnalytics":"UA-59916137-1",
-    "disqus":"things-unseen",
-    "url":"http://AmritPatel.github.io/Things-Unseen"
-  },
-  "socialnetwork":{
-    "email":"",
-    "twitter":"http://twitter.com/im_apatel",
-    "googleplus":"https://plus.google.com/+AmritPatel",
-    "linkedin":"http://linkedin.com/in/amritdpatel",
-    "facebook":"http://facebook.com/amrit.d.patel",
-    "instagram":"http://instagram.com/im_apatel",
-    "github":"https://github.com/AmritPatel"
+    "name": "saga"
   }
 }
