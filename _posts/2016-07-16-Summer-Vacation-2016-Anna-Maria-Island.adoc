@@ -1,5 +1,5 @@
 = Summer Vacation 2016: Anna Maria Island
-:hp-tags: miniseries, color
+:hp-tags: 
 :hp-image: images/2016_07_16%20Anna%20Maria%20Island/R0007096.jpg
 
 image::http://amritpatel.github.io/Things-Unseen/images/2016_07_16%20Anna%20Maria%20Island/R0006769.jpg[]
