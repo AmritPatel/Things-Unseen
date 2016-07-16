@@ -1,23 +1,23 @@
 = Kajol's Graduation 
 :hp-tags: miniseries, color
-:hp-image: images/2015_12_19%20Kajol's%20Graduation/R0004426.jpg
+:hp-image: ./2015_12_19%20Kajol's%20Graduation/R0004426.jpg
 
 It had been a while since I'd been back to Gainesville, but man was I glad to be back. Especially to be there to see my cousin Kajol walk across the same stage I walked across almost 10 years ago. There's nothing like being with family at a time like this and capturing these moments was a true joy.
 
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004345.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004351.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004358.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004379.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004395.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004408.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004409.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004426.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004435.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004442.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004454.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004468.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004487.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004503.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004517.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004523.jpg[title="", width="800, height="600"]
-image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004536.jpg[title="", width="800, height="600"]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004345.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004351.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004358.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004379.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004395.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004408.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004409.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004426.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004435.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004442.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004454.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004468.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004487.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004503.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004517.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004523.jpg[]
+image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004536.jpg[]
