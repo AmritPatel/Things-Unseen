@@ -1,6 +1,6 @@
 = Kajol's Graduation 
 :hp-tags: miniseries, color
-:hp-image: http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004426.jpg
+:hp-image: images/2015_12_19%20Kajol's%20Graduation/R0004426.jpg
 
 image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004345.jpg[title="", width="800, height="600"]
 image::http://amritpatel.github.io/Things-Unseen/images/2015_12_19%20Kajol's%20Graduation/R0004351.jpg[title="", width="800, height="600"]
